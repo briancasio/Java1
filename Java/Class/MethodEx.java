@@ -12,6 +12,11 @@ public class MethodEx {
         //call String method:
         printName("Brian");
         printName("Miguel");
+
+        //call getSum method:
+        int sum = getSum(6, 6); 
+        System.out.println(sum); //or System.out.println(getSum(6,6));
+        
       
 
     }
@@ -33,6 +38,16 @@ public class MethodEx {
     System.out.println(name);
     
     }
+
+    //Create a method named printName, that will take a String as a parameter
+    //The method should return your first name
+    public static int getSum(int x, int y){
+    
+    int result = x + y;
+    return result; //It must be last statement
+    
+    }
+    
     
 
 }
