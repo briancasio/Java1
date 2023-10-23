@@ -1,0 +1,3 @@
+Largest: 12
+Lowest: 2
+Average: 5.8
