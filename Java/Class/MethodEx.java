@@ -4,8 +4,15 @@ public class MethodEx {
         int x = 5;
         int y = 2;
 
+        String me = "Brian";
+        String neighbor = "Miguel";
+
         //call the method:
         printSum(x,y);
+
+        //call String method:
+        printName(me, neighbor);
+      
 
     }
 
@@ -17,5 +24,15 @@ public class MethodEx {
     System.out.println(result);
     
     }
+
+    //Create a method named printName, that will take a String as a parameter
+    //The method should print your first name
+
+    public static void printName(String me, String neighbor) {
+
+    System.out.println(me + "\n" + neighbor);
+    
+    }
+    
 
 }
