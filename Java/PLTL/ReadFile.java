@@ -42,8 +42,8 @@ public class ReadFile{
 
         }
 
-        double s = Math.sqrt(sigma/(counter - 1));
-        avg = sum / counter;
+    double s = Math.sqrt(sigma/(counter - 1));
+    avg = sum / counter;
     System.out.println(largest);
     System.out.println(lowest);
     System.out.println(avg);
