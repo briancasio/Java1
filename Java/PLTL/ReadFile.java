@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.io.*;
-
 public class ReadFile{
     public static void main(String[] args) throws IOException {
     
@@ -9,36 +8,35 @@ public class ReadFile{
     int number;
     int largest = 1;
     int lowest = 1;
-    double avg;
     int counter = 0;
+    double avg;
     double sum = 0;
     double sigma = 0;
     double k = 5.5;
 
         while(myFile.hasNext()){
-        
 
             number = myFile.nextInt();
 
-            sum += number;
 
-            sigma += Math.pow(Math.abs(number - k), 2);
-
-            
-
-
-            if (largest < number){
+                if (largest < number){
 
                     largest = number;
-                
                 }
-            else {
-                
-                    lowest = number;
-                
-                }
+                else {
 
-        counter++;
+                        lowest = number;
+
+                    }
+
+            //
+
+            sigma += Math.pow((number - k), 2);
+
+            sum += number;
+
+
+            counter++;
 
         }
 
@@ -47,23 +45,7 @@ public class ReadFile{
     System.out.println(largest);
     System.out.println(lowest);
     System.out.println(avg);
-    System.out.println(s);
+    System.out.printf("%.2f",s);
     
-
-    //standard deviation
-/* 
-    int currentNum;
-
-    while(myFile.hasNext()){
-    
-        currentNum = myFile.nextInt();
-        System.out.println(currentNum);
-        
-    }
-
-    //suma menos contante
-
-*/
-
     }
 }
