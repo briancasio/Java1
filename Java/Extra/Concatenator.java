@@ -6,7 +6,7 @@ public class Concatenator{
         for (int i = 0; i < arrStr.length; i++){
         
             System.out.println(arrStr[i] + " pft");
-
+        //consome
 
         }
 
