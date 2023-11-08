@@ -6,13 +6,12 @@ public class ReadFile{
     Scanner myFile = new Scanner(new File("numbers.txt"));
 
     int number;
-    int largest = 1;
-    int lowest = 1;
+    int largest = Integer.MIN_VALUE;
+    int lowest = Integer.MAX_VALUE;
     int counter = 0;
-    double avg;
+    double mean = 0;
     double sum = 0;
     double sigma = 0;
-    double k = 5.5;
 
         while(myFile.hasNext()){
 
@@ -22,30 +21,32 @@ public class ReadFile{
                 if (largest < number){
 
                     largest = number;
+
                 }
-                else {
+                if (number < lowest) {
 
-                        lowest = number;
+                    lowest = number;
 
-                    }
+                }
 
-            //
-
-            sigma += Math.pow((number - k), 2);
+            
 
             sum += number;
-
-
             counter++;
+            mean = sum / counter;
+            sigma += Math.pow((number - mean), 2);
+
 
         }
 
+System.out.println(sigma);
+System.out.println(counter);
+
     double s = Math.sqrt(sigma/(counter - 1));
-    avg = sum / counter;
     System.out.println(largest);
     System.out.println(lowest);
-    System.out.println(avg);
-    System.out.printf("%.2f",s);
+    System.out.println(mean);
+    System.out.printf("%.2f\n", s);
     
     }
 }
