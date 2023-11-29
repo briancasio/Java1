@@ -1,3 +1,10 @@
+/*
+  Encrypt/decrypt program
+    Ruben Herrera
+    Brian Casio 
+    Miguel Fernandez
+ */
+
 import java.util.Scanner;
 import java.io.*;
 
@@ -22,17 +29,18 @@ public class MethodDemo {
                 c = (int) word.charAt(i);
                 pw.print(c + " ");
         }
-        pw.close();  
         }    
+        pw.close();  
     }
 
     public static void decrypt(String filename2) throws IOException{
         Scanner input = new Scanner(new File(filename2));
         PrintWriter pr = new PrintWriter("decrypt.txt");
         int c;
+        char word;
         while(input.hasNext()){
             c = input.nextInt();
-            char word = (char) c;     
+            word = (char) c;     
             pr.print(word);  
         }
         pr.close();
