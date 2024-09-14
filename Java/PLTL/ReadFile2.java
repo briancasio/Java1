@@ -1,12 +1,68 @@
-import java.io.*;
 import java.util.Scanner;
+import java.io.*;
 
 public class ReadFile2 { 
     public static void main(String[] args) throws IOException {
 
         Scanner scanner = new Scanner(new File("numbers.txt"));
 
-        double sum = 0;
+        while(scanner.hasNext()){
+
+            int num = scanner.nextInt();
+
+            System.out.println(num);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*double sum = 0;
         double sigma = 0;
         int largest = Integer.MIN_VALUE;
         int lowest = Integer.MAX_VALUE;
@@ -41,13 +97,13 @@ public class ReadFile2 {
             
         }
 
-        double standardDeviation = Math.sqrt(sigma / counter);
+        double standardDeviation = Math.sqrt(sigma / (counter - 1));
 
         System.out.println("lowest: " + lowest);
         System.out.println("largest: " + largest);
         System.out.println("mean: " + mean);
         System.out.printf("%.2f\n", standardDeviation);
 
-
+    */
     }
 }

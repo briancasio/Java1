@@ -44,7 +44,7 @@ public class PeerLeader extends Student{
 
     public String toString(){
     
-        return "Student " + super.toString() + ", and employee ID and salary are " + 
+      return "Student " + super.toString() + ", and employee ID and salary are " + 
         getEmployeeID() + " & " + getSalary();
     
     }

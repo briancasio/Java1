@@ -13,6 +13,36 @@ public class ReadFile{
     double sum = 0;
     double sigma = 0;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         while(myFile.hasNext()){
 
             number = myFile.nextInt();

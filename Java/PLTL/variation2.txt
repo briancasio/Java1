@@ -1,0 +1,69 @@
+Student1 
+2003
+65
+80
+                                              CM                                
+                                   MC              MM                           
+                                                MMM    MM                       
+                                             M     MMM    MM                    
+                     MMMM M   MM M M             M     MMM   C                  
+                     M MMMM              MM   MM     CM    MM    M              
+                                      M           MM    MMM   MM                
+               C                  M          MMMM     CM    CM   MM             
+                 MMMMM                   MCM      MMM    MM    MM  CM           
+              M    MCMMCMM              M       MM     MM   CMM   M             
+             MM    M        MMMMMMMMM         MM    MMM   MM   MM  MMM          
+               MM   MMM                     M     MM    MM   MM  CM   MM        
+            M    MM   CMMMM                M    MM     M   MC  CM   MM          
+           MMMMM   MMM    MMMCCMM     M  MCMMMMM    CMM  MM    M  MC  MM        
+            MMMMM   MMMM    CMMMMMCMMMMMMMMM       MMM      MMM     MM          
+         MM      MM    MMMM                      MMMM    MMM    CCM    MM       
+           MM  M   MMM     MM                MMMMMMM   MMMM  MMM    CMMM        
+        M   MM  MM   MMM     MMMMMMCMMMMC   MMMMM    CMMM   MM    MM      M     
+      C  MM   M   MM    MM       M    MMMMMMCMM M    MMC   M   MMM   CM MM      
+       M  MM  MMM  MMMM  MCMM             MMMMC    MMM   MMM  MM   CM    M      
+     C  MM  MM  MMC  MMC    MCMMMMMMMCMMCMMMM    MMMM  MCM   MM  CM   MM   MM   
+      M   M   MM  CM   MMM        M MMMMMMM    MMMM   CMM  MMM  MM  CM  MMM     
+       MM  MM  MM  MM    MMMC                       MMC   MM   MM  MM  MM  MMC  
+      M  MM  MM  MM  MM    MCMMMMM                MCM   MMC   MM  M  MM  CM     
+       M  MM   M  MC  MMM      MMCCMM          MMCM   CMM MM MMMMC  M  MMM MM   
+         C  MMMMM  MMM   MMM    MMMMMMMMM M  MMMMM   MMM  MM  MM  MC MMM  M     
+      MC  MM MM  M   MMM  MMMM    MCMMMMMMMMCMCMM   MM  MMC  M   MC MM  M   M   
+    MM MMM MM  MM  M   MM   MM     C CMMMCMMMMCM   MMM MM   MM MM  MM MM  M  M  
+      MM MM  M  MM  MM  MM   MMM     MMMMMMMMM      MMMMMMMM MM  CM MM  MM MM   
+    CM  M  MM MM  M  MM  MM   MMM    MMCMMMMMM    MMCM  MM  MM  M  MM MM MM     
+   M  MM MM MM  M  CM MMM MMM   MMM   MMMMMM   MMMMM   MM  MM MM  M  MC C  M    
+    MMM M  CMMMM C  MM  CM  CM   MMM  CMMMMMMMMMM  MCCM  MM  MM MM MM MM  M MC  
+   MMMMMMMM MM M  M  MC  MM  MMM  MC    MMMMMCM   MMMMMMMM MMMMMM MM MM MM  M   
+  MMMMM MC M  M MM MMM MC MM   MM  MMM   MCM     MM   MCMMM  MM MM MM  MM MC  M 
+  M MMCMC M MMM  M M MM CM  MM  MMM  MM         MM  MMMMMMMMMM MMCM  MM  M MM   
+   M MMMMMMM M M MC M MM  M  MM M MM  MM      MMC     MM  MMMMM M MMMM MMMMM  M 
+  CMMMMC M CM M M M M M MM M  M  M MM  MMM MMMMC   MMMMMMM MM MM M MMMM MM MM   
+   MMMMMC M MM M M M MMCMMM M  M MM  MM  MMMMC   MMMM CMMMMMMMM MMM M MM CM   M 
+  MMMM M MMM  M M M M C MM M MM M MM M MM MM MCMMMMMMMMMMM MMMMM MMMMMMMM M M   
+   MMMM M MM M M M M M MM M MMMC MM M M  MMMMMMMM MCMMMMMMM   MMMMMM MM M MM M  
+ M M M M MM M M M M M MM M M M M M M MMCMMMM MMMMMC MM MM  M MMMMMMCMMM MC M  M 
+  M MMMM M M M M MM MMM C M M MMM MMMMMCMMMMMMMMM  MMMCMMMMM CC MMMMM MM M  C   
+   MCMM M M M M  M M MM M C M M M M MM MMMMMMMMMMMMM MMMM MMCMM MMMMMM M MM M   
+   MMM M MMMM MMMM MMM M M M CM MM MMM MCMMM MMMMMMMMM MMMMM  M M MMMM MM C MM  
+  M MMCMCMCMM MM M M C M M M MMMMCMMMM MM MMMMMM  MMMMMM   MCMM M M MM M  M     
+  MMM M MM M MC MM M M M M M CM MM MMMM M MMCMMMMMMMMMMMMCMMMMMM MMCM M M M     
+   MMMM MMMM MM M MM M MMM M M CM  M MC MM CMMMMMCMMCMMMM     M MMMMC M M M     
+   M MMMM CMMMM M MM M  MM M MMMMMMMM MCMM MCM M  MMM   MMMMM MM  MM M MMC      
+   MMMMMMMM M M M MMM M MMMM MMMCMM MMMM  MM MM MMM MMMMMCM    MMM MM  M        
+    MM MM M M M M M M M M  C MMM MM MM MMMCMM  MM  MMM      MMCMMMM  M M M      
+    MM MMMM M M M M M M MM C M M  MMMMM MM M MM  MMM  MMMMMCMMMM  MM MC C       
+     C MM M M M M M M  M M M M MMMMM  MM MM MM MMM  MMMM    M  MCM  C           
+    MMMMC M M M  MMM M M M MM M MMM M  MM MM  MM  MMM    M M    MC  M  M        
+      M M M M  M M M M MM M M MM MM MMM MMC MM  MMM   MMMMMMMM   MM  M          
+      CMM CM M M M M  M M M  M MM  M  CMC MMM  MMM          MMMM  MM M          
+       C M C M    M M M  M M  M MC  MM  MMMM  CC              CM   M            
+       MM M MM  M MM M M M MM  M  MM MMM M  MMM    MMMCMMM    MM  MM            
+         M M MM MM M  M MCM MM  MM MM  MMC MM   MMMMMMMMMMM   MM                
+          M C MM MM MM M  CM MM  MM   MC   CM  MMMCMMMMMMM     M                
+         M MMMM MM C    MM CM  CM  MMM  MMMC   MMM M MMMMMM                     
+             M MM M   MM  MM MMM  CM   CCM    MMMMM    MMMM                     
+               M MM MC  MC  MM   MMM     M   MCMC                               
+                  MMM  MM  CMC  MMM     MMCMMM MMMMMM                           
+                        M  MM   MMM     MM                                      
+                                 M                                              

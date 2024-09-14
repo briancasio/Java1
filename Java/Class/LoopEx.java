@@ -1,33 +1,38 @@
 public class LoopEx {
   public static void main(String[] args) {
     
-  
-    /*String hello = "Hello";
-    int i = 0;
+  int [] digits = {1, 0, 5};
 
-    while(i < hello.length()) {
 
-    System.out.println(hello.charAt(i));
-    i++;
-
-    }
-
-    int i = 5;
-
-    do{
-
-      System.out.println(i);
-      i--;
-    }
-    while(i >= 0);*/
-
-    String hello = "Hello";
-
-    for(int i = 0; i < hello.length(); i++){
-    
-      System.out.println(hello.charAt(i));
-    
-    }
 
   }
+
+    public static int[]plusOne(int [] digits){
+    
+    
+    
+        for(int i = digits.length - 1; i >= 0; i--){
+            
+            if(i == 9){
+            
+                digits[i-1] = digits[i-1] + 1;
+                digits[i] = 0;
+
+            
+            }
+            else{
+            
+                
+            
+            }
+            
+        }
+
+        return plusOne(digits);
+    
+    
+    }
+
+
+
 }

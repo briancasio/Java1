@@ -1,17 +1,11 @@
-/*
 
-1. Find the largest number.
-2. Find lowest number.
-3. Find the average.
-4. Print the results on a new file using PrintWriter.
-
-*/
 
 import java.util.Scanner;
 import java.io.*;
 
 public class FileExample {
     public static void main(String[] args) throws IOException {
+        
         Scanner myFile = new Scanner(new File("numbers.txt")); //You need a numbers.txt file in the same directory as FileExample.java
 
         int num;

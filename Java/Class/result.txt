@@ -1,0 +1,5 @@
+Sum: 61
+Average: 6.1
+Maximum: 10
+Minimum: 2
+Standard Deviation: 2.467792535850613

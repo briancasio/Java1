@@ -3,10 +3,9 @@ public class NestedLoops {
 
 int i;
 int j;
-
+int n = 5; 
     //first
     System.out.println("First:");
-        int n = 5; 
         for (i = 1; i <= n; i++) {
            
             for (j = 1; j <= i; j++) {
@@ -41,12 +40,12 @@ int j;
         System.out.println("Third:");
 
 
-        for(i = 1; i <= n; i++){
+        for(i = 5; i >= 1; i--){
         
-            for(j = i; j <= n; j++){
+            for(j = 1; j <= i; j++){
             
                 System.out.print(j);
-            
+                
 
             }
         
@@ -62,9 +61,9 @@ int j;
 
         n = 1;
 
-        for(i = 5; i >= n; i--){
+        for(i = 5; i >= 1; i--){
         
-            for(j = i; j >= n; j--){
+            for(j = 1; j <= i; j++){
             
                 System.out.print(i);
             
@@ -77,6 +76,9 @@ int j;
 
     System.out.println();
         
+
+
+
 
     }
 }
